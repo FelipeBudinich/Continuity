@@ -8,7 +8,7 @@ package registry
 	{
 		[Embed(source = '../assets/art/click_to_play.png')] public static const CLICKTOPLAY:Class;
 		[Embed(source='../assets/art/credits.png')] public static const CREDITS:Class;
-		[Embed(source = '../assets/art/bg_01.png')] public static const BG_01:Class;
+		[Embed(source = '../assets/art/bg_01.jpg')] public static const BG_01:Class;
 		
 		[Embed(source = '../assets/art/cliche/test_cliche.png')] public static const SPACECLICHE:Class;
 		
